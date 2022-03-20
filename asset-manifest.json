@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1b9db88d.css",
+    "main.js": "/static/js/main.73119840.js",
+    "static/media/us-reformed-international.png": "/static/media/us-reformed-international.7fdbca2372889d7ccfa0.png",
+    "static/media/selinux.svg": "/static/media/selinux.43aaeb8d943ab66bb9d14b5984dc1fc0.svg",
+    "static/media/holidaybot.png": "/static/media/holidaybot.89c7774db8c7aab829ce.png",
+    "static/media/postgresql.svg": "/static/media/postgresql.6fb83da449765ce30a34419a16f4533c.svg",
+    "static/media/microsoft-sql-server.svg": "/static/media/microsoft-sql-server.b7594a37a0468871ebf7639426db1751.svg",
+    "static/media/grafana.svg": "/static/media/grafana.bfa26906f76e7e0cbc5a4055d173889d.svg",
+    "static/media/metagrab.svg": "/static/media/metagrab.91c6b48a20b9e41175a19f193b3ca201.svg",
+    "static/media/docker.svg": "/static/media/docker.1d41320cb0101dbbc6fe182abd590263.svg",
+    "static/media/qemu.svg": "/static/media/qemu.5ec20db9d92110f6ddb8cb1cf75229cc.svg",
+    "static/media/archlinux.svg": "/static/media/archlinux.5c494567d85f5ec7b8cb44d2daa0ebcd.svg",
+    "static/media/lua.svg": "/static/media/lua.8d1b3d5638f83585693cdca9e44f84e2.svg",
+    "static/media/react.svg": "/static/media/react.4e0c97009b885bfa75c5412262a46f5f.svg",
+    "static/media/pi-hole.svg": "/static/media/pi-hole.7d3d683221acd9f453000708176f9e41.svg",
+    "static/media/ssh.svg": "/static/media/ssh.6177f261c258d0bbc4a525d1a616e0c2.svg",
+    "static/media/github.svg": "/static/media/github.3c903c66b2c5334c8c0b80567c4ea422.svg",
+    "static/media/go.svg": "/static/media/go.66845436a5ce2eb0795d26690a4eecf7.svg",
+    "static/media/bash.svg": "/static/media/bash.9c94441e9886f55182c0e8c490020192.svg",
+    "static/media/nodejs.svg": "/static/media/nodejs.10c9e2aa0ca7edf36fceae25fec038a1.svg",
+    "static/media/java.svg": "/static/media/java.8f44354798ff58d9d7d7f963c57fdda5.svg",
+    "static/media/rethinkdb.webp": "/static/media/rethinkdb.8080b4a85ce94c69a345.webp",
+    "static/media/oracle.svg": "/static/media/oracle.21a46ccd5ceb6379d6bc726cf65a756a.svg",
+    "static/media/nginx.svg": "/static/media/nginx.7c2f1d58c457c4a4c3adfb73c2352f4a.svg",
+    "static/media/spotify.svg": "/static/media/spotify.53a8fc1009a0c4269a67da84a90514ed.svg",
+    "index.html": "/index.html",
+    "static/media/css3.svg": "/static/media/css3.39769a8bd378bf410d6b381a8d88fa35.svg",
+    "static/media/git.svg": "/static/media/git.c08353563539c6459b353f29d8dd7bf2.svg",
+    "static/media/html5.svg": "/static/media/html5.8664168d5bc90b1a24396f85aadbf623.svg",
+    "static/media/rockylinux.svg": "/static/media/rockylinux.7baf995a1b4419bfacd827f1feff8140.svg",
+    "static/media/gtk.svg": "/static/media/gtk.5aaa407f5ff592546cca4ad1ac29d680.svg",
+    "main.1b9db88d.css.map": "/static/css/main.1b9db88d.css.map",
+    "main.73119840.js.map": "/static/js/main.73119840.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b9db88d.css",
+    "static/js/main.73119840.js"
+  ]
+}
