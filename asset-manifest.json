@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.1b9db88d.css",
+    "main.css": "/static/css/main.aa57fdc4.css",
     "main.js": "/static/js/main.73119840.js",
     "static/media/us-reformed-international.png": "/static/media/us-reformed-international.7fdbca2372889d7ccfa0.png",
     "static/media/selinux.svg": "/static/media/selinux.43aaeb8d943ab66bb9d14b5984dc1fc0.svg",
@@ -31,11 +31,11 @@
     "static/media/html5.svg": "/static/media/html5.8664168d5bc90b1a24396f85aadbf623.svg",
     "static/media/rockylinux.svg": "/static/media/rockylinux.7baf995a1b4419bfacd827f1feff8140.svg",
     "static/media/gtk.svg": "/static/media/gtk.5aaa407f5ff592546cca4ad1ac29d680.svg",
-    "main.1b9db88d.css.map": "/static/css/main.1b9db88d.css.map",
+    "main.aa57fdc4.css.map": "/static/css/main.aa57fdc4.css.map",
     "main.73119840.js.map": "/static/js/main.73119840.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b9db88d.css",
+    "static/css/main.aa57fdc4.css",
     "static/js/main.73119840.js"
   ]
 }
