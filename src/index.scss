@@ -1,0 +1,35 @@
+html {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-y: scroll;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+header {
+  margin: 0;
+  font-family: 'Ubuntu Mono', 'Roboto Mono', 'Noto Sans Mono', 'Cascadia Mono',
+    'Droid Sans Mono', 'Fira Sans Mono', source-code-pro, Menlo, Monaco, Consolas,
+    'Courier New', monospace;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Ubuntu', 'Segoe UI', 'Roboto',
+    'Noto Sans', 'Oxygen', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
