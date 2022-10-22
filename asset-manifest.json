@@ -1,10 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.aa57fdc4.css",
-    "main.js": "/static/js/main.73119840.js",
+    "main.css": "/static/css/main.84e35134.css",
+    "main.js": "/static/js/main.1743c2c9.js",
+    "static/media/dotfiles.png": "/static/media/dotfiles.ffd4b64ce8ad2573d6eb.png",
     "static/media/us-reformed-international.png": "/static/media/us-reformed-international.7fdbca2372889d7ccfa0.png",
     "static/media/selinux.svg": "/static/media/selinux.43aaeb8d943ab66bb9d14b5984dc1fc0.svg",
     "static/media/holidaybot.png": "/static/media/holidaybot.89c7774db8c7aab829ce.png",
+    "static/media/awx.svg": "/static/media/awx.f2ce82470d5c7245bcd8d644644ba6d9.svg",
     "static/media/postgresql.svg": "/static/media/postgresql.6fb83da449765ce30a34419a16f4533c.svg",
     "static/media/microsoft-sql-server.svg": "/static/media/microsoft-sql-server.b7594a37a0468871ebf7639426db1751.svg",
     "static/media/grafana.svg": "/static/media/grafana.bfa26906f76e7e0cbc5a4055d173889d.svg",
@@ -31,11 +33,11 @@
     "static/media/html5.svg": "/static/media/html5.8664168d5bc90b1a24396f85aadbf623.svg",
     "static/media/rockylinux.svg": "/static/media/rockylinux.7baf995a1b4419bfacd827f1feff8140.svg",
     "static/media/gtk.svg": "/static/media/gtk.5aaa407f5ff592546cca4ad1ac29d680.svg",
-    "main.aa57fdc4.css.map": "/static/css/main.aa57fdc4.css.map",
-    "main.73119840.js.map": "/static/js/main.73119840.js.map"
+    "main.84e35134.css.map": "/static/css/main.84e35134.css.map",
+    "main.1743c2c9.js.map": "/static/js/main.1743c2c9.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa57fdc4.css",
-    "static/js/main.73119840.js"
+    "static/css/main.84e35134.css",
+    "static/js/main.1743c2c9.js"
   ]
 }
