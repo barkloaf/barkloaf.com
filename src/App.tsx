@@ -44,6 +44,13 @@ function App() {
           text="a sensible version of the US-International keyboard layout with AltGr dead keys for Windows, Mac, and Linux."
         />
 
+        <Project
+          img={require("./images/dotfiles.png")}
+          title="dotfiles"
+          href="https://github.com/barkloaf/dotfiles"
+          text="my personal setup for Arch Linux featuring the nord color scheme, bspwm, picom, polybar, and more!"
+        />
+
         <a className="item project" href="https://github.com/barkloaf/barkloaf.com">
           <div className="project-img barkloaf" />
           <p>
@@ -66,6 +73,11 @@ function App() {
         <div className="item tech-root">
           <span>some technologies that I've used:</span>
           <div className="techs">
+            <Tech
+              name="Ansible AWX"
+              img={require("./images/awx.svg").default}
+              href="https://www.ansible.com/community/awx-project"
+            />
             <Tech
               name="Arch Linux"
               img={require("./images/archlinux.svg").default}
